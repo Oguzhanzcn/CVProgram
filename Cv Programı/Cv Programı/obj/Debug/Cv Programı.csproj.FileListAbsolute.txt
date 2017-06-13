@@ -1,0 +1,15 @@
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\bin\Debug\Cv Programı.exe.config
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\bin\Debug\Cv Programı.exe
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\bin\Debug\Cv Programı.pdb
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv Programı.csprojResolveAssemblyReference.cache
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv_Programı.Form1.resources
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv_Programı.Properties.Resources.resources
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv Programı.csproj.GenerateResource.Cache
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv Programı.exe
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv Programı.pdb
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv_Programı.CvOlustur.resources
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv_Programı.CvGoruntule.resources
+C:\Users\oğuzhan\Desktop\Cv Programı\Cv Programı\obj\Debug\Cv_Programı.KullaniciGiris.resources
+C:\Users\oğuzhan\Desktop\OKUL DOSYALARI\Sistem Analizi\Cv programı sunum ve proje\Cv Programı\Cv Programı\bin\Debug\Cv Programı.exe.config
+C:\Users\oğuzhan\Desktop\OKUL DOSYALARI\Sistem Analizi\Cv programı sunum ve proje\Cv Programı\Cv Programı\obj\Debug\Cv Programı.exe
+C:\Users\oğuzhan\Desktop\OKUL DOSYALARI\Sistem Analizi\Cv programı sunum ve proje\Cv Programı\Cv Programı\obj\Debug\Cv Programı.pdb
